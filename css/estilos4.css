@@ -1,0 +1,81 @@
+.titulo {
+    font-weight: 700;
+}
+
+#barrainicio {
+    background-color: #fafafa;
+}
+
+#barrainicio input {
+    width: 500px;
+}
+
+#subscripcion {
+    background-color: #5dcb6f;
+}
+
+#botonmenu {
+    background-color: #448c51;
+    margin-top: -35px;
+    border-radius: 0;
+    font-weight: 700;
+}
+
+#menu {
+    background-color: #5dcb6f;
+}
+
+a {
+    color: white;
+}
+
+.icono-social {
+    width: 40px;
+    height: 40px;
+    background-color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+}
+
+.icono-social svg {
+    width: 20px;
+    height: 20px;
+}
+
+#blognav a {
+    text-decoration: none;
+}
+
+#blognav svg {
+    margin-bottom: 7px;
+}
+
+.imagenes {
+    max-width: 250px;
+}
+
+.leer {
+    color: #5dcb6f;
+    text-decoration: none;
+}
+
+.boton-final {
+    background-color: #5dcb6f;
+    width: 100%;
+    font-weight: 700;
+}
+
+.boton-final:hover {
+    background-color: #5dcb6f;
+}
+
+.card-title {
+    font-weight: 700;
+}
+
+.boton {
+    font-weight: 700;
+}
